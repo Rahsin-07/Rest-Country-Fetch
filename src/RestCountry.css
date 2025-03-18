@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+}
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  background-color: black;
+
+}
+
+
+.modal-content img{
+
+  height: 100px;
+  width: 200px;
+  
+}
+
+.row{
+  margin-top: 50px;
+ 
+}
+
+
+
+
+
+
+.card{
+  height: 320px;
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  width: 310px;
+}
+
+
+.modal-content{
+  background-color: black;
+color: white;
+}
+.modal-content button{
+  background-color: red ;
+}
